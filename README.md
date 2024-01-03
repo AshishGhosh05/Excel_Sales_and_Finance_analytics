@@ -28,7 +28,7 @@ Sales and financials reports:
 We meticulously crafted an in-depth report, illuminating the nuances of customer trends. This report serves as the cornerstone for devising focused strategies and enhancing services, providing a profound understanding of customer behavior.
 
 💹 Comprehensive Profit and Loss Analysis:
-Delved into the financial landscape by meticulously constructing detailed Profit and Loss (P&L) reports for for yearly as wlle as monthly.This analytical endeavor offers a nuanced perspective on the fiscal health of the organization, spanning different Fiscal Years and Months. These reports serve as a valuable tool for dissecting financial performance and guiding strategic decision-making.
+Delved into the financial landscape by meticulously constructing detailed Profit and Loss (P&L) reports for for yearly and monthly.This analytical endeavor offers a nuanced perspective on the fiscal health of the organization, spanning different Fiscal Years and Months. These reports serve as a valuable tool for dissecting financial performance and guiding strategic decision-making. https://github.com/AshishGhosh05/Excel_Sales_and_Finance_analytics/blob/main/P%20%26%20L%20year.pdf and https://github.com/AshishGhosh05/Excel_Sales_and_Finance_analytics/blob/main/P%26L%20market.pdf
 
 
 🌐 Scrutiny of Market Performance:
@@ -41,7 +41,7 @@ We identified both the top and bottom-performing products, offering valuable ins
 
 📊 Quarters' Profitability Probe:
 
-Navigating the intricacies of profitability, we scrutinized Gross Margin Percentage (GM%) across quarters (subzones). This exploration provides actionable insights into the financial intricacies, enabling informed decision-making and strategic adjustments. 
+Navigating the intricacies of profitability, we scrutinized Gross Margin Percentage (GM%) across quarters (subzones). This exploration provides actionable insights into the financial intricacies, enabling informed decision-making and strategic adjustments. (https://github.com/AshishGhosh05/Excel_Sales_and_Finance_analytics/blob/main/GM%25%20by%20qyarters.pdf)
 
 I extend my sincere gratitude to Dhaval Patel Sir and Hemanand Vadivel Sir!
 
