@@ -4,6 +4,8 @@ I am delighted to introduce my latest endeavor in the exciting field of data ana
 
 Embarking on this venture has not only enriched my skills in data analytics but has also equipped me with a deep understanding of leveraging Advanced Excel for impactful business insights. I am thrilled to share the results of this project, which encapsulates the essence of the knowledge and techniques acquired during the boot camp.
 
+**Objective**:
+
 In the vibrant realm of computer hardware and peripherals, AtliQ Hardware stands as a dynamic force, serving major clients including Amazon, Flipkart, Neptune, Croma, and managing its own e-stores. The task at hand was crystal clear – to distill profound insights from the intricate web of sales and finance data.
 
 The objective was not just to navigate through the complexities but to unearth meaningful patterns and trends that could drive strategic decisions. AtliQ Hardware, operating through diverse channels like direct sales, retailers, and distribution, aimed to harness the power of data analytics to gain a competitive edge in the market.
@@ -11,35 +13,38 @@ The objective was not just to navigate through the complexities but to unearth m
 This mission presented a unique challenge, and our journey involved unraveling the intricacies of sales and finance data to unlock the hidden potential within the vast dataset. The ultimate goal was to empower AtliQ Hardware with actionable insights that could propel growth and optimize operations across its varied sales channels.
 
 
-1.wer Query:
+1.**Power Query:**
+
 Employing Power Query, we initiated the data extraction process. This involved extracting, cleaning, and transforming the data to ensure its integrity and usability. Additionally, custom columns were created to tailor the dataset to our specific needs. Tables were then connected based on common columns to establish relationships. Finally,the refined data was loaded into the data model for in-depth analysis and exploration.
 
-2.Pivot Table:
+2.**Pivot Table:**
+
 The next pahse of  our analysis, we leveraged Pivot Tables to generate various insightful reports. These reports included Customer Performance, Market Performance, Top 10 Products List, and more. The Pivot Table functionality allowed us to dynamically organize and summarize the data.Pivot Tables enable effortless data manipulation. We seamlessly filtered and sorted the data according to our specific needs, allowing for quick identification of trends and patterns.The intuitive nature of Pivot Tables provided an easy-to-navigate interface, facilitating a seamless exploration of the data and empowering users to derive meaningful insights.
 
-3.Power Pivot : 
+3.**Power Pivot :** 
 
 Incorporating Power Pivot into our analytical toolkit,Within Power Pivot, we harnessed the power of DAX formulas to craft measures. These measures were instrumental in computing specific metrics and key performance indicators tailored to our analytical objectives.A critical aspect of the process involved thorough management of the data model. This entailed organizing and optimizing the dataset to facilitate seamless integration and analysis within Power Pivot.Creating relationships between tables was a crucial step in ensuring the integrity of our data model. These relationships formed a foundation for cohesive data analysis, allowing for a more holistic understanding of the interconnected variables.
 
-Sales and financials reports: 
+**Sales and financials reports: **
 
-📈 Exploration of Customer Behavior:
+📈 **Exploration of Customer Behavior:**
 
-We meticulously crafted an in-depth report, illuminating the nuances of customer trends. This report serves as the cornerstone for devising focused strategies and enhancing services, providing a profound understanding of customer behavior.
+We meticulously crafted an in-depth report, illuminating the nuances of customer trends. This report serves as the cornerstone for devising focused strategies and enhancing services, providing a profound understanding of customer behavior. https://github.com/AshishGhosh05/Excel_Sales_and_Finance_analytics/blob/main/customer%20netsales%20performance.pdf
 
-💹 Comprehensive Profit and Loss Analysis:
+💹 **Comprehensive Profit and Loss Analysis:**
+
 Delved into the financial landscape by meticulously constructing detailed Profit and Loss (P&L) reports for for yearly and monthly.This analytical endeavor offers a nuanced perspective on the fiscal health of the organization, spanning different Fiscal Years and Months. These reports serve as a valuable tool for dissecting financial performance and guiding strategic decision-making. https://github.com/AshishGhosh05/Excel_Sales_and_Finance_analytics/blob/main/P%20%26%20L%20year.pdf and https://github.com/AshishGhosh05/Excel_Sales_and_Finance_analytics/blob/main/P%26L%20market.pdf
 
 
-🌐 Scrutiny of Market Performance:
+🌐 **Scrutiny of Market Performance:**
 
-We thoroughly examined how well we're doing in the market, comparing our actual performance against our set targets. This detailed analysis helped pinpoint areas that could use improvement and provided insights for strategic enhancements.
+We thoroughly examined how well we're doing in the market, comparing our actual performance against our set targets. This detailed analysis helped pinpoint areas that could use improvement and provided insights for strategic enhancements. https://github.com/AshishGhosh05/Excel_Sales_and_Finance_analytics/blob/main/market%20performane%20vs%20target.pdf
 
-🌟 Analyzing Product Performance:
+🌟 **Analyzing Product Performance:**
 
-We identified both the top and bottom-performing products, offering valuable insights for agile inventory management and focused marketing efforts. This analysis allows us to strategically manage our product portfolio for optimal performance.
+We identified both the top and bottom-performing products, offering valuable insights for agile inventory management and focused marketing efforts. This analysis allows us to strategically manage our product portfolio for optimal performance. https://github.com/AshishGhosh05/Excel_Sales_and_Finance_analytics/blob/main/Sales%20analytics.pdf
 
-📊 Quarters' Profitability Probe:
+📊 **Quarters' Profitability Probe:**
 
 Navigating the intricacies of profitability, we scrutinized Gross Margin Percentage (GM%) across quarters (subzones). This exploration provides actionable insights into the financial intricacies, enabling informed decision-making and strategic adjustments. (https://github.com/AshishGhosh05/Excel_Sales_and_Finance_analytics/blob/main/GM%25%20by%20qyarters.pdf)
 
